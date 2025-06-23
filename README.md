@@ -61,7 +61,7 @@ This project does not include a license file. If you wish to allow others to reu
 
 ## Author Info
 
-This report was created by **Earnest S.** (GitHub user [@snipergib](https://github.com/snipergib)). You can learn more about me on my portfolio [portfolio website](http://earni.onrender.com) or find him on LinkedIn (Earnest S.).
+This report was created by **Earnest S.** (GitHub user [@snipergib](https://github.com/snipergib)). You can learn more about me on my portfolio [portfolio website](http://earni.onrender.com) or connect with me on LinkedIn (Earnest S.).
 
 **Credits:** The Superstore dataset and this example are for educational use. All visual designs and data modeling were done by the author to help beginners learn Power BI.
 
