@@ -1,4 +1,4 @@
-# Power BI Basics
+# Power BI
 
 ## Project Overview
 
@@ -10,7 +10,7 @@ The project uses the classic **Superstore** dataset (often featured in BI tutori
 
 ## Visualizations/Dashboards
 
-The Power BI file (`Power BI Basics.pbix`) contains multiple report pages with various charts and dashboards. For example, you might find:
+The Power BI file (`Power BI Intern.pbix`) contains multiple report pages with various charts and dashboards. For example, you might find:
 
 * A **Sales Performance** page showing total sales and profit over time (e.g. line charts or area charts by year and quarter).
 * A **Regional Analysis** dashboard highlighting sales by region (often displayed as a map or bar chart for the four regions: West, East, Central, South).
@@ -50,7 +50,7 @@ Once set up, you can click through the report pages in the PBIX. Each page conta
 
 The repository has a simple layout:
 
-* **`Power BI Basics.pbix`** – The Power BI report file containing the Superstore data and all dashboards.
+* **`Power BI Intern.pbix`** – The Power BI report file containing the Superstore data and all dashboards.
 * **`README.md`** – This documentation file.
 
 *(No additional data or code files are included. The PBIX file contains everything needed.)*
